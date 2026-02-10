@@ -1,0 +1,1 @@
+Understanding Git is table stakes for developers.
